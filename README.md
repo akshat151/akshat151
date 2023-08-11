@@ -12,7 +12,9 @@
 - 💬 Ask me about **iOS App Development, Android App Development, Hybrid App Development and Web App Development.**
 
 - 📫 How to reach me **akshatkhare1596@gmail.com**
-
+  
+- ⚡ I have 3+ years of work experience as a software engineer and have worked for companies like Honeywell International and Lenze R&D.**
+  
 - ⚡ Fun fact **I do Hackathons, Code Competitions and play Soccer for Fun.**
 
 <h3 align="left">Connect with me:</h3>
