@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshat Khare</h1>
 <h3 align="center">A passionate Software Engineer from Boston, Massachusetts</h3>
 
+- 🔭 I’m currently pursuing my Master of Science in Computer Science from Northeastern University Boston.
+  
 - 🔭 I’m currently working on [my web application project and iOS mobile application project.](https://github.com/akshat151/Smart-Office-Solutions-Web-Application-using-React-and-Node.js)
 
 - 🌱 I’m currently learning **Web Application Development using React.js, Node.js, Express.js, TypeScript**
