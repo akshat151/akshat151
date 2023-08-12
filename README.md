@@ -9,85 +9,74 @@
 </p>
 
 
-  
-- 🔭 I’m currently working on [my web application project and iOS mobile application project.](https://github.com/akshat151/Smart-Office-Solutions-Web-Application-using-React-and-Node.js)
+## Current Ventures 🌟
 
-- 🌱 I’m currently learning **Web Application Development using React.js, Node.js, Express.js, TypeScript**
+- 🔭 Currently immersed in [my web application project and iOS mobile application project](https://github.com/akshat151/Smart-Office-Solutions-Web-Application-using-React-and-Node.js).
+- 🌱 Learning the art of **Web Application Development** using React.js, Node.js, Express.js, and TypeScript.
+- 👯 Eager to collaborate on **Mobile App Development** for Android, iOS, and thrilling Web Applications.
 
-- 👯 I’m looking to collaborate on **Mobile App Development Both Android and iOS as well as Web Application Development.**
+## Get in Touch 📬
 
-- 👨‍💻 All of my projects are available at [https://github.com/akshat151](https://github.com/akshat151)
+- 💬 Ask me about **iOS App Development, Android App Development, Hybrid App Development,** and **Web App Development**.
+- 📫 You can reach me at [akshatkhare1596@gmail.com](mailto:akshatkhare1596@gmail.com).
 
-- 💬 Ask me about **iOS App Development, Android App Development, Hybrid App Development and Web App Development.**
+## What Sets Me Apart ⚡
 
-- 📫 How to reach me **akshatkhare1596@gmail.com**
-  
-- ⚡ I have 3+ years of work experience as a software engineer and have worked for companies like Honeywell International and Lenze R&D.**
-  
-- ⚡ Fun fact **I do Hackathons, Code Competitions and play Soccer for Fun.**
+- ⚡ **3+ years of diverse experience** as a Software Engineer with a track record of excellence.
+- ⚡ Thrive in competitive environments, frequently engaging in Hackathons and Code Competitions.
+- ⚡ An avid soccer enthusiast, you might just spot me on the field!
 
-### Education
+## Education 🎓
 
 - **Master of Science in Computer Science**
   Northeastern University, Boston, MA
   *Expected December 2024*
-  Related Courses: Programming Design Paradigm, Database Management System, Algorithms, Web Development, Mobile Application Development and Machine Learning.
-  
+  Relevant Courses: Programming Design Paradigm, Database Management System, Algorithms, Web Development, Mobile Application Development, and Machine Learning.
+
 - **Bachelor of Computer Engineering**
   Pune Institute of Computer Technology, Pune, India
   *May 2019*
 
-### Technical Skills
+## Technical Toolbox 🛠️
 
-- Programming Languages: Java, C#, Python, Swift, JavaScript, Kotlin.
-- Mobile App Development: Android, iOS, Xamarin, React Native.
-- Web App Development: React.js, HTML, CSS, Node.js, Express.js, TypeScript.
-- Databases: MySQL, MongoDB, Firebase, SQL, NoSQL.
-- Data Science and AI Tools: TensorFlow, Scikit-learn, Matplotlib, Pandas.
-- Version Control: SVN, GIT.
-- Integrated Development Environments: Microsoft Visual Studio, Android Studio, Xcode, Visual Studio Code.
+Languages | Development | Databases | Data Science | Tools
+--- | --- | --- | --- | ---
+Java, C#, Python, Swift, JavaScript, Kotlin | Android, iOS, Xamarin, React Native | MySQL, MongoDB, Firebase, SQL, NoSQL | TensorFlow, Scikit-learn, Matplotlib, Pandas | SVN, GIT, Visual Studio, Android Studio, Xcode, VS Code
 
-### Work Experience
+## Work Experience 👨‍💼
 
-**Graduate Teaching Assistant, Mobile Application Development**
+### Graduate Teaching Assistant, Mobile Application Development
 Khoury College of Computer Sciences, Northeastern University, Boston, MA
 *May 2023 - Present*
 - Designed assignments and instructed a class of 80+ students on mobile app architectural patterns: MVC and MVVM.
-- Mentored students in building Native iOS Mobile Apps with Xcode and Swift Programming Language.
+- Mentored students in building Native iOS Mobile Apps with Xcode and Swift.
 
-## Software Engineer, Lenze, Pune, India
-#### April 2021 - July 2022
+### Software Engineer, Lenze, Pune, India
+*April 2021 - July 2022*
+- Collaborated on Cross Platform and Native Android app development, utilizing Xamarin Forms and Android SDK for Smart Industries.
+- Led UI design, integration of new features, and optimization efforts for improved efficiency and user satisfaction.
+- Mentored junior developers, enhancing code quality and reducing bugs.
 
-- Led a collaborative effort among a team to conceive and develop both Cross Platform and Native Android mobile applications, employing Microsoft Xamarin Forms and Android SDK for projects focused on Smart Industries.
-- Spearheaded seamless cooperation within a team, effectively gathering requirements, designing intuitive application UI, and integrating new functionalities to enhance user experience.
-- Optimized the internal package download speed in the Lenze Smart Keypad App, resulting in improved efficiency and user satisfaction.
-- Achieved significant enhancements in App Startup times through meticulous performance profiling and strategic code refactoring.
-- Played a pivotal role in mentoring junior developers, leading to a substantial improvement in code quality and a reduction in reported bugs.
+### Software Engineer, Honeywell, Pune, India
+*August 2019 - March 2021*
+- Contributed to hybrid and Native Android mobile applications, implementing effective logging and testing frameworks.
+- Championed stability and reliability through robust error handling, reducing crashes and post-release defects.
 
-## Software Engineer, Honeywell, Pune, India
-#### August 2019 - March 2021
+## Projects 🚀
 
-- Collaborated as an integral member of a team to conceptualize, design, and develop hybrid and Native Android mobile applications.
-- Implemented a robust system of effective logging and monitoring mechanisms, resulting in a reduction in mean time to diagnose and resolve production issues.
-- Ensured the reliability and functionality of critical components by adeptly employing unit testing frameworks, reducing post-release defects.
-- Pioneered the implementation of resilient error handling and exception management strategies, resulting in a decrease in application crashes and an overall enhanced app stability.
-
-
-### Projects
-
-**Lenze Smart Mobile Applications, Mobile Application**
+### Lenze Smart Mobile Applications, Mobile Application
 *August 2019 - July 2022*
-- Developed Lenze Smart Keypad app, a Cross-Platform Mobile App for both Android and iOS operating system.
-- Built Lenze Smart Motor app, a Native Android Mobile Application used to commission Lenze Smart Motor via NFC.
+- Developed Lenze Smart Keypad app, a Cross-Platform Mobile App for Android and iOS.
+- Created Lenze Smart Motor app, a Native Android Application for commissioning via NFC.
 
-**Smart Office Solutions, Web Application**
+### Smart Office Solutions, Web Application
 *March 2023 - April 2023*
-- A Web Application featuring task management, client engagement tracking, and employee time management.
-- Tech Stack: Typescript, JavaScript, ReactJS, NodeJS, and MySQL relational database management system.
+- Designed a Web Application for task management, client engagement tracking, and employee time management.
+- Tech Stack: Typescript, JavaScript, ReactJS, NodeJS, MySQL.
 
-### Achievements
+## Achievements 🏆
 
-- Winner of Honeywell’s Hackathon 2019 Contest on the topic of Edge detection of Machine Faults by utilizing ML.
+- Winner of Honeywell’s Hackathon 2019 Contest for Edge detection of Machine Faults using ML.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
