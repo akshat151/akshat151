@@ -97,4 +97,4 @@ Khoury College of Computer Sciences, Northeastern University, Boston, MA
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat151&" alt="akshat151" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat151&label=Profile%20views&color=0e75b6&style=flat" alt="akshat151" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat151&label=Profile%20views&color=0e75b6&style=flat" alt="akshat151" /> </p> 
