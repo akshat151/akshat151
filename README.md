@@ -11,7 +11,7 @@
 
 ## Current Ventures 🌟
 
-- 🔭 Currently immersed in [my web application project and iOS mobile application project](https://github.com/akshat151/Smart-Office-Solutions-Web-Application-using-React-and-Node.js).
+- 🔭 Currently immersed in [my web application project](https://github.com/akshat151/kanbas-react-web-app) and [my iOS mobile application project](https://github.com/akshat151/iOS-App-Airbnb-Clone).
 - 🌱 Learning the art of **Web Application Development** using React.js, Node.js, Express.js, and TypeScript.
 - 👯 Eager to collaborate on **Mobile App Development** for Android, iOS, and thrilling Web Applications.
 
