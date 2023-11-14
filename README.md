@@ -45,7 +45,7 @@ Java, C#, Python, Swift, JavaScript, Kotlin | Android, iOS, Xamarin, React Nativ
 
 ## Work Experience 👨‍💼
 
-### Graduate Teaching Assistant, Mobile Application Development
+### Lead Graduate Teaching Assistant, Mobile Application Development
 Khoury College of Computer Sciences, Northeastern University, Boston, MA
 *May 2023 - Present*
 - Designed assignments and instructed a class of 80+ students on mobile app architectural patterns: MVC and MVVM.
