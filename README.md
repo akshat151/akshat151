@@ -43,24 +43,42 @@ Languages | Development | Databases | Data Science | Tools
 --- | --- | --- | --- | ---
 Java, C#, Python, Swift, JavaScript, Kotlin | Android, iOS, Xamarin, React Native | MySQL, MongoDB, Firebase, SQL, NoSQL | TensorFlow, Scikit-learn, Matplotlib, Pandas | SVN, GIT, Visual Studio, Android Studio, Xcode, VS Code
 
+Here is the updated work experience with the data you provided:
+
 ## Work Experience 👨‍💼
 
-### Lead Graduate Teaching Assistant, Mobile Application Development
-Khoury College of Computer Sciences, Northeastern University, Boston, MA
-*May 2023 - Present*
-- Designed assignments and instructed a class of 80+ students on mobile app architectural patterns: MVC and MVVM.
+### Lead Graduate Teaching Assistant, Mobile Application Development  
+Khoury College of Computer Sciences, Northeastern University, Boston, MA  
+*May 2023 - Present*  
+- Designed assignments and instructed a class of 100+ students on mobile app architectural patterns: MVC and MVVM.
 - Mentored students in building Native iOS Mobile Apps with Xcode and Swift.
 
-### Software Engineer, Lenze, Pune, India
-*April 2021 - July 2022*
-- Collaborated on Cross Platform and Native Android app development, utilizing Xamarin Forms and Android SDK for Smart Industries.
-- Led UI design, integration of new features, and optimization efforts for improved efficiency and user satisfaction.
-- Mentored junior developers, enhancing code quality and reducing bugs.
+### iOS Software Engineer Research Intern  
+Network Science Institute, Northeastern University, Boston, MA  
+*Jan 2024 - Aug 2024*  
+- Led the development of the NIO iOS app for the National Internet Observatory, a research project funded by NSF using Swift, SwiftUI, and UIKit.
 
-### Software Engineer, Honeywell, Pune, India
-*August 2019 - March 2021*
-- Contributed to hybrid and Native Android mobile applications, implementing effective logging and testing frameworks.
-- Championed stability and reliability through robust error handling, reducing crashes and post-release defects.
+
+### Software Engineer - iOS  
+Lenze, Pune, IN  
+*Nov 2021 - Jul 2022*  
+- Developed and maintained native iOS apps with Swift and UIKit as part of the Lenze Smart Engineering Apps Team.
+
+### Software Engineer - Android  
+Lenze, Pune, IN  
+*Apr 2021 – Nov 2021*  
+- Developed and maintained native Android apps with Java and Kotlin as part of the Lenze Smart Engineering Apps Team.
+- Led the migration of an existing Java codebase to Kotlin, improving code quality and developer productivity.
+
+### Software Engineer I - Mobile  
+Honeywell, Pune, IN  
+*Aug 2019 - Mar 2021*  
+- **iOS Development**:  
+   - Contributed to develop and maintain native iOS applications using Swift and Objective-C.  
+   - Architected a protocol-oriented Networking Layer, ensuring Separation of Concern and easy mocking for unit tests.
+- **Android Development**:  
+   - Contributed to native Android applications using Java and Kotlin.  
+   - Developed custom UI components and implemented new features in the Honeywell mobile app, improving user experience.
 
 ## Projects 🚀
 
