@@ -20,14 +20,14 @@
 
 ## Education 🎓
 
-- **Master of Science in Computer Science**
-  Northeastern University, Boston, MA
-  *May 2025*
-  Relevant Courses: Cloud Computing, Programming Design Paradigm, Database Management System, Algorithms, Web Development, Mobile Application Development, and Computer Vision and Pattern Recognition.
+- **Master of Science in Computer Science**<br>
+  Northeastern University, Boston, MA<br>
+  *May 2025*<br>
+  Relevant Courses: Cloud Computing, Programming Design Paradigm, Database Management System, Algorithms, Web Development, Mobile Application Development, and Computer Vision and Pattern Recognition.<br>
 
-- **Bachelor of Computer Engineering**
-  Pune Institute of Computer Technology, Pune, India
-  *May 2019*
+- **Bachelor of Computer Engineering**<br>
+  Pune Institute of Computer Technology, Pune, India<br>
+  *May 2019*<br>
 
 ## Technical Toolbox 🛠️
 
