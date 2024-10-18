@@ -8,13 +8,6 @@
   <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
-
-## Current Ventures 🌟
-
-- 🔭 Currently immersed in [my web application project](https://github.com/akshat151/kanbas-react-web-app) and [my iOS mobile application project](https://github.com/akshat151/iOS-App-Airbnb-Clone).
-- 🌱 Learning the art of **Web Application Development** using React.js, Node.js, Express.js, and TypeScript.
-- 👯 Eager to collaborate on **Mobile App Development** for Android, iOS, and thrilling Web Applications.
-
 ## Get in Touch 📬
 
 - 💬 Ask me about **iOS App Development, Android App Development, Hybrid App Development,** and **Web App Development**.
