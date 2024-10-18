@@ -75,7 +75,7 @@ Honeywell, Pune, IN
 ## Projects 🚀
 
 ### Lenze Smart Mobile Applications, Mobile Application
-*August 2019 - July 2022*
+*April 2021 - July 2022*
 - Developed Lenze Smart Keypad app, a Cross-Platform Mobile App for Android and iOS.
 - Created Lenze Smart Motor app, a Native Android Application for commissioning via NFC.
 
