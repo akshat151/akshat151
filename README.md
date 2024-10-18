@@ -22,16 +22,15 @@
 
 ## What Sets Me Apart ⚡
 
-- ⚡ **3+ years of diverse experience** as a Software Engineer with a track record of excellence.
+- ⚡ **4 years of diverse experience** as a Software Engineer with a track record of excellence.
 - ⚡ Thrive in competitive environments, frequently engaging in Hackathons and Code Competitions.
-- ⚡ An avid soccer enthusiast, you might just spot me on the field!
 
 ## Education 🎓
 
 - **Master of Science in Computer Science**
   Northeastern University, Boston, MA
   *Expected December 2024*
-  Relevant Courses: Programming Design Paradigm, Database Management System, Algorithms, Web Development, Mobile Application Development, and Machine Learning.
+  Relevant Courses: Cloud Computing, Programming Design Paradigm, Database Management System, Algorithms, Web Development, Mobile Application Development, and Computer Vision and Pattern Recognition.
 
 - **Bachelor of Computer Engineering**
   Pune Institute of Computer Technology, Pune, India
