@@ -22,7 +22,7 @@
 
 - **Master of Science in Computer Science**
   Northeastern University, Boston, MA
-  *Expected December 2024*
+  *May 2025*
   Relevant Courses: Cloud Computing, Programming Design Paradigm, Database Management System, Algorithms, Web Development, Mobile Application Development, and Computer Vision and Pattern Recognition.
 
 - **Bachelor of Computer Engineering**
