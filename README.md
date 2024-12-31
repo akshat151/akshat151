@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Khare</h1>
 <p align="center">
   <strong>A passionate Software Engineer based in Boston, Massachusetts.</strong> <br>
-  🚀 With a knack for crafting <em>innovative solutions</em>, I'm currently <em>pursuing a Master of Science in Computer Science</em> at Northeastern University. My journey in software development spans over <strong>4+ years</strong>, during which I've contributed to diverse projects in both <em>Android and iOS app development</em>, as well as <em>web applications</em>.
+  🚀 With a knack for crafting <em>innovative solutions</em>, I'm currently <em>pursuing a Master of Science in Computer Science</em> at Northeastern University. My journey in software development spans over <strong>4+ years</strong>, during which I've contributed to diverse projects in both <em>iOS app development</em>, as well as <em>web applications development</em>.
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Get in Touch 📬
 
-- 💬 Ask me about **iOS App Development, Android App Development, Hybrid App Development,** and **Web App Development**.
+- 💬 Ask me about **Mobile App Development,** and **Web App Development**.
 - 📫 You can reach me at [akshatkhare1596@gmail.com](mailto:akshatkhare1596@gmail.com).
 
 ## What Sets Me Apart ⚡
@@ -33,7 +33,7 @@
 
 Languages | Development | Databases | Data Science | Tools
 --- | --- | --- | --- | ---
-Java, C#, Python, Swift, JavaScript, Kotlin | Android, iOS, Xamarin, React Native | MySQL, MongoDB, Firebase, SQL, NoSQL | TensorFlow, Scikit-learn, Matplotlib, Pandas | SVN, GIT, Visual Studio, Android Studio, Xcode, VS Code
+Java, C#, Python, Swift, JavaScript, Kotlin | Android, iOS, React Native | MySQL, MongoDB, Firebase, SQL, NoSQL | TensorFlow, Scikit-learn, Matplotlib, Pandas | SVN, GIT, Visual Studio, Android Studio, Xcode, VS Code
 
 Here is the updated work experience with the data you provided:
 
@@ -51,33 +51,24 @@ Network Science Institute, Northeastern University, Boston, MA
 - Led the development of the NIO iOS app for the National Internet Observatory, a research project funded by NSF using Swift, SwiftUI, and UIKit.
 
 
-### Software Engineer - iOS  
+### Software Engineer - Mobile  
 Lenze, Pune, IN  
-*Nov 2021 - Jul 2022*  
+*Apr 2021 - Jul 2022*  
 - Developed and maintained native iOS apps with Swift and UIKit as part of the Lenze Smart Engineering Apps Team.
 
-### Software Engineer - Android  
-Lenze, Pune, IN  
-*Apr 2021 – Nov 2021*  
-- Developed and maintained native Android apps with Java and Kotlin as part of the Lenze Smart Engineering Apps Team.
-- Led the migration of an existing Java codebase to Kotlin, improving code quality and developer productivity.
 
 ### Software Engineer I - Mobile  
 Honeywell, Pune, IN  
 *Aug 2019 - Mar 2021*  
 - **iOS Development**:  
-   - Contributed to develop and maintain native iOS applications using Swift and Objective-C.  
+   - Contributed to develop and maintain native iOS applications using Swift.  
    - Architected a protocol-oriented Networking Layer, ensuring Separation of Concern and easy mocking for unit tests.
-- **Android Development**:  
-   - Contributed to native Android applications using Java and Kotlin.  
-   - Developed custom UI components and implemented new features in the Honeywell mobile app, improving user experience.
 
 ## Projects 🚀
 
 ### Lenze Smart Mobile Applications, Mobile Application
 *April 2021 - July 2022*
-- Developed Lenze Smart Keypad app, a Cross-Platform Mobile App for Android and iOS.
-- Created Lenze Smart Motor app, a Native Android Application for commissioning via NFC.
+- Developed Lenze Smart Keypad iOS app.
 
 ### Smart Office Solutions, Web Application
 *March 2023 - April 2023*
