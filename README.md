@@ -41,19 +41,15 @@ Here is the updated work experience with the data you provided:
 
 ### Lead Graduate Teaching Assistant, Mobile Application Development  
 Khoury College of Computer Sciences, Northeastern University, Boston, MA  
-*May 2023 - Present*  
-- Designed assignments and instructed a class of 100+ students on mobile app architectural patterns: MVC and MVVM.
-- Mentored students in building Native iOS and Native Android Mobile Apps with Kotlin and Swift.
+*May 2023 - Present* 
 
 ### iOS Software Engineer Research Intern  
 Network Science Institute, Northeastern University, Boston, MA  
 *Jan 2024 - Aug 2024*  
-- Led the development of the NIO iOS app for the National Internet Observatory, a research project funded by NSF using Swift, SwiftUI, and UIKit.
-
 
 ### Software Engineer
 Lenze, Pune, IN  
-*Apr 2021 - Jul 2022*  
+*Apr 2021 - Aug 2022*  
 
 
 ### Software Engineer I 
