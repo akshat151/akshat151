@@ -59,8 +59,7 @@ Honeywell, Pune, IN
 ## Projects 🚀
 
 ### Lenze Smart Mobile Applications, Mobile Application
-*April 2021 - July 2022*
-- Developed Lenze Smart Keypad iOS app.
+*April 2021 - Aug 2022*
 
 ### Smart Office Solutions, Web Application
 *March 2023 - April 2023*
