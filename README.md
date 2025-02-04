@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Khare</h1>
 <p align="center">
   <strong>A passionate Software Engineer based in Boston, Massachusetts.</strong> <br>
-  🚀 With a knack for crafting <em>innovative solutions</em>, I'm currently <em>pursuing a Master of Science in Computer Science</em> at Northeastern University. My journey in software development spans over <strong>4+ years</strong>, during which I've contributed to diverse projects in both <em>iOS app development</em>, as well as <em>web applications development</em>.
+  🚀 With a knack for crafting <em>innovative solutions</em>, I'm currently <em>pursuing a Master of Science in Computer Science</em> at Northeastern University. My journey in software development spans over <strong>4+ years</strong>, during which I've contributed to diverse projects in <em>iOS app development</em>, <em>Android app development</em>, as well as <em>Full Stack Web applications development</em>.
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Here is the updated work experience with the data you provided:
 Khoury College of Computer Sciences, Northeastern University, Boston, MA  
 *May 2023 - Present*  
 - Designed assignments and instructed a class of 100+ students on mobile app architectural patterns: MVC and MVVM.
-- Mentored students in building Native iOS Mobile Apps with Xcode and Swift.
+- Mentored students in building Native iOS and Native Android Mobile Apps with Kotlin and Swift.
 
 ### iOS Software Engineer Research Intern  
 Network Science Institute, Northeastern University, Boston, MA  
@@ -51,18 +51,14 @@ Network Science Institute, Northeastern University, Boston, MA
 - Led the development of the NIO iOS app for the National Internet Observatory, a research project funded by NSF using Swift, SwiftUI, and UIKit.
 
 
-### Software Engineer - Mobile  
+### Software Engineer
 Lenze, Pune, IN  
 *Apr 2021 - Jul 2022*  
-- Developed and maintained native iOS apps with Swift and UIKit as part of the Lenze Smart Engineering Apps Team.
 
 
-### Software Engineer I - Mobile  
+### Software Engineer I 
 Honeywell, Pune, IN  
 *Aug 2019 - Mar 2021*  
-- **iOS Development**:  
-   - Contributed to develop and maintain native iOS applications using Swift.  
-   - Architected a protocol-oriented Networking Layer, ensuring Separation of Concern and easy mocking for unit tests.
 
 ## Projects 🚀
 
