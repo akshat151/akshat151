@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Khare</h1>
 <p align="center">
-  <strong>A passionate Software Engineer based in Boston, Massachusetts.</strong> <br>
+  <strong>A passionate Mobile Software Engineer based in Boston, Massachusetts.</strong> <br>
   🚀 With a knack for crafting <em>innovative solutions</em>, I'm currently <em>pursuing a Master of Science in Computer Science</em> at Northeastern University. My journey in software development spans over <strong>4+ years</strong>, during which I've contributed to diverse projects in <em>iOS app development</em>, <em>Android app development</em>, as well as <em>Full Stack Web applications development</em>.
 </p>
 
@@ -15,7 +15,7 @@
 
 ## What Sets Me Apart ⚡
 
-- ⚡ **4 years of diverse experience** as a Software Engineer with a track record of excellence.
+- ⚡ **4 years of diverse experience** as a Mobile Software Engineer with a track record of excellence.
 - ⚡ Thrive in competitive environments, frequently engaging in Hackathons and Code Competitions.
 
 ## Education 🎓
