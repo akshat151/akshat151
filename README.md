@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Khare</h1>
 <p align="center">
   <strong>A passionate Mobile Software Engineer based in Boston, Massachusetts.</strong> <br>
-  🚀 With a knack for crafting <em>innovative solutions</em>, I'm currently <em>pursuing a Master of Science in Computer Science</em> at Northeastern University. My journey in software development spans over <strong>4+ years</strong>, during which I've contributed to diverse projects in <em>iOS app development</em>, <em>Android app development</em>, as well as <em>Full Stack Web applications development</em>.
+  🚀 With a knack for crafting <em>innovative solutions</em>, I'm currently <em>pursuing a Master of Science in Computer Science</em> at Northeastern University. My journey in software development spans over <strong>4+ years</strong>, during which I've contributed to diverse projects in <em>iOS app development</em>, <em>Android app development</em>, <em>Cross-platform mobile app development using Xamarin</em>, as well as <em>Full Stack Web applications development</em>.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 Languages | Development | Databases | Data Science | Tools
 --- | --- | --- | --- | ---
-Java, C#, Python, Swift, JavaScript, Kotlin | Android, iOS, React Native | MySQL, MongoDB, Firebase, SQL, NoSQL | TensorFlow, Scikit-learn, Matplotlib, Pandas | SVN, GIT, Visual Studio, Android Studio, Xcode, VS Code
+Java, C#, Python, Swift, JavaScript, Kotlin | Android, iOS, Xamarin | MySQL, MongoDB, Firebase, SQL, NoSQL | TensorFlow, Scikit-learn, Matplotlib, Pandas | SVN, GIT, Visual Studio, Android Studio, Xcode, VS Code
 
 Here is the updated work experience with the data you provided:
 
