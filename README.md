@@ -202,8 +202,9 @@ Canvas-like platform with modular front-end and a file-based JSON backend.
 ## 📬 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/akshat15"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
-<a href="https://www.leetcode.com/akshat1514"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
+  <a href="https://linkedin.com/in/akshat15"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/akshat1514"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
 </p>
 
 ---
