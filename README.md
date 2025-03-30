@@ -57,7 +57,7 @@ Relevant Courses: Cloud Computing, Algorithms, Web & Mobile Dev, DBMS, Computer 
 
 | 🧑‍💻 Languages       | 📱 Mobile Development                                 | 🗄️ Databases              | ☁️ Tools, IDEs & Cloud             | 🧠 AI / Data Science           |
 |----------------------|-------------------------------------------------------|----------------------------|-----------------------------------|-------------------------------|
-| Java, Kotlin, Swift, Objective-C, Dart, C#, JavaScript, TypeScript, Python | SwiftUI, UIKit, Jetpack Compose, Android SDK, Flutter, React Native, Xamarin, MVVM, MVC, REST APIs | Firebase, SQLite, Core Data, Realm, MySQL, MongoDB | Xcode, Android Studio, Visual Studio, VS Code, Git, Postman, Figma, Azure, Firebase Console | TensorFlow, PyTorch, Pandas, Scikit-learn, OpenCV, Matplotlib |
+| Java, Kotlin, Swift, Objective-C, Dart, C#, JavaScript, TypeScript, Python | SwiftUI, UIKit, Jetpack Compose, Android SDK, Flutter, React Native, Xamarin, MVVM, MVC, REST APIs | Firebase, SQLite, Core Data, Realm, MySQL, MongoDB | Xcode, Android Studio, Visual Studio, VS Code, Git, Postman, Figma, AWS, Firebase Console | TensorFlow, PyTorch, Pandas, Scikit-learn, OpenCV, Matplotlib |
 
 ---
 
@@ -165,6 +165,7 @@ Canvas-like platform with modular front-end and a file-based JSON backend.
 
 ![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-Design-blueviolet?logo=figma)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007acc?logo=visual-studio-code)
