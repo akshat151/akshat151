@@ -43,11 +43,11 @@ Relevant Courses: Cloud Computing, Algorithms, Web & Mobile Dev, DBMS, Computer 
 **Network Science Institute**, Boston, MA  
 *Jan 2024 – Aug 2024*
 
-### 💡 Software Engineer  
+### 💡 Software Engineer (R&D) - Mobile App Development (Android & iOS)
 **Lenze**, Pune, India  
 *Apr 2021 – Aug 2022*
 
-### 🔧 Software Engineer I  
+### 🔧 Software Engineer I - Mobile App Development (Android & iOS)
 **Honeywell**, Pune, India  
 *Aug 2019 – Mar 2021*
 
@@ -57,7 +57,7 @@ Relevant Courses: Cloud Computing, Algorithms, Web & Mobile Dev, DBMS, Computer 
 
 | 🧑‍💻 Languages       | 📱 Mobile Development                                 | 🗄️ Databases              | ☁️ Tools, IDEs & Cloud             | 🧠 AI / Data Science           |
 |----------------------|-------------------------------------------------------|----------------------------|-----------------------------------|-------------------------------|
-| Java, Kotlin, Swift, Objective-C, Dart, C#, JavaScript, TypeScript, Python | SwiftUI, UIKit, Jetpack Compose, Android SDK, Flutter, React Native, Xamarin, MVVM, MVC, REST APIs | Firebase, SQLite, Core Data, Realm, MySQL, MongoDB | Xcode, Android Studio, Visual Studio, VS Code, Git, Postman, Figma, AWS, Firebase Console | TensorFlow, PyTorch, Pandas, Scikit-learn, OpenCV, Matplotlib |
+| Java, Kotlin, Swift, Objective-C, Dart, C#, JavaScript, TypeScript, Python | SwiftUI, UIKit, Jetpack Compose, Android SDK, Flutter, React Native, Xamarin, .Net MAUI, MVVM, MVC, REST APIs | Firebase, SQLite, Core Data, Realm, MySQL, MongoDB | Xcode, Android Studio, Visual Studio, VS Code, Git, Postman, Figma, AWS, Firebase Console | TensorFlow, PyTorch, Pandas, Scikit-learn, OpenCV, Matplotlib |
 
 ---
 
