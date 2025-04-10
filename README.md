@@ -64,14 +64,14 @@ Relevant Courses: Cloud Computing, Algorithms, Web & Mobile Dev, DBMS, Computer 
 ### ✅ Mobile Platforms & Frameworks
 - **iOS**: Swift, SwiftUI, UIKit, Combine, Core Data, Core Animation, AVKit  
 - **Android**: Kotlin, Jetpack Compose, Android SDK, Room DB  
-- **Cross-Platform**: React Native, Xamarin (C#)  
+- **Cross-Platform**: Xamarin (C#), .Net MAUI  
 
 ### ⚙️ Architecture & APIs
 - MVVM, MVI, MVC, Repository Pattern, Singleton  
 - REST APIs, JSON, URLSession, Retrofit, Alamofire
 
 ### 🛠️ Tools & CI/CD
-- Git, Xcode, Android Studio, Firebase, VS Code, Figma, Postman  
+- Git, Xcode, Android Studio, Firebase, VS Code, Figma, Postman, Microsoft App Store  
 - GitHub Actions, Fastlane (iOS automation), Firebase Crashlytics  
 
 ---
